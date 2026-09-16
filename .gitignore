@@ -1,0 +1,23 @@
+# Database & Environment Secrets
+config/db_local.php
+.env
+*.env.local
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Temporary Files
+*.log
+tmp/
+temp/
